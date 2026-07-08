@@ -42,7 +42,7 @@ function Testimonials() {
                 <p className="font-semibold relative ">
                   <span className="text-4xl mr-2 text-(--accent)">❝</span> Lorem
                   {course.description}
-                  <span className="text-4xl ml-2 absolute md:right-22 -right-8 -bottom-6 text-(--accent)">
+                  <span className="text-4xl ml-2 absolute md:right-22 right-38 -bottom-6 text-(--accent)">
                     ❞
                   </span>
                 </p>
