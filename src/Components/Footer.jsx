@@ -94,10 +94,10 @@ function Footer() {
           <span className="bg-white p-4 px-8   rounded-t-lg shadow-2xl text-(--accent)">
             © 2025 Website By{" "}
             <a
-              href="https://seraprogrammer.com/ahsan"
+              href="#"
               className="uppercase hover:text-[#7325f3]"
             >
-              Ahsan
+              Sufyan
             </a>
           </span>
         </div>
