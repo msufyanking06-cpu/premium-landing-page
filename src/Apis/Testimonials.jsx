@@ -1,7 +1,7 @@
 const Testimonials = [
   {
     id: 1,
-    image : "/src/images/elipse_1_3.png",
+    image : "/assets/elipse_1_3.png",
     name: "Laura Smith",
     description: "ipsum dolor sit amet consectetur adipisicing elit. Enim culpa alias accusamus nam nemo nulla"
   },
